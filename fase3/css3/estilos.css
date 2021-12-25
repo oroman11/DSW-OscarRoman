@@ -2,7 +2,7 @@ header{
     background-color: green;
 }
 nav{
-    background-color: blue;
+    background-color: mediumturquoise;
 }
 section{
     background-color: darkorange;
@@ -13,7 +13,7 @@ aside{
     grid-column: 4/5;
 }
 footer{
-    background-color: mediumturquoise;
+    background-color: blue;
 }
 main{
     display: grid;
