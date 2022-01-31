@@ -1,0 +1,21 @@
+header{
+    background-color: green;
+}
+nav{
+    background-color: mediumturquoise;
+}
+section{
+    background-color: darkorange;
+    grid-column: 1/4;
+}
+aside{
+    background-color: gold;
+    grid-column: 4/5;
+}
+footer{
+    background-color: blue;
+}
+main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
